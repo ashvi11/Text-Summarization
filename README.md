@@ -1,6 +1,6 @@
 # Final Project Code
 
-Luis Preciado, Ayush Dwivedi, Ashvi Soni
+Ashvi Soni, Luis Preciado, Ayush Dwivedi
 
 ### Base Model
 
